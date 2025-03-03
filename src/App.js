@@ -1,4 +1,5 @@
 import SixDaysRequest from "./components/SixDaysRequest";
+import './App.css';
 
 function App() {
   return (
